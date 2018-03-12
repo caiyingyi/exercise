@@ -192,3 +192,4 @@ print "实现迭代器：\n"
 a = iter(linked_list)
 print "迭代第一次：" + str(a.next())
 print "迭代第二次：" + str(a.next())
+
