@@ -1,4 +1,6 @@
 # -*- coding:utf8 -*-
+# 双向列表的实现
+
 class Node(object):
     def __init__(self, data, next_one=None, prev_one=None):
         self.data = data
